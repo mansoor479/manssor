@@ -1,2 +1,0 @@
-# manssor
-Assignment 1
